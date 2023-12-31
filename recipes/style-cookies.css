@@ -1,0 +1,18 @@
+body{
+
+    font-family: 'Courier New', Courier, monospace;
+    background-color: antiquewhite;
+    
+    }
+    #title{
+    
+    text-align: center;
+    font-weight: 700;
+    
+    }
+    .image.main{
+    
+    height: auto;
+    width: 400px;
+    
+    }

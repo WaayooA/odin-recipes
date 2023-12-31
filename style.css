@@ -1,0 +1,19 @@
+body{
+
+font-family: 'Courier New', Courier, monospace;
+background-color: antiquewhite;
+
+}
+
+h1{
+
+color: black;
+text-align: center;
+
+}
+#list{
+
+text-align: left;
+font-weight: bold;
+
+}
