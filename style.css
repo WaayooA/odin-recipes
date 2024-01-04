@@ -1,5 +1,7 @@
 body{
 
+height: auto;
+width: auto;
 font-family: 'Courier New', Courier, monospace;
 background-color: antiquewhite;
 
@@ -9,11 +11,19 @@ h1{
 
 color: black;
 text-align: center;
+background-color: aliceblue;
+margin: 0px auto;
+padding: 30px;
 
 }
 #list{
 
 text-align: left;
 font-weight: bold;
+width: 100px;
+height: 500px;
+border: 2px solid black;
+background-color: white;
+padding: 25px;
 
 }
